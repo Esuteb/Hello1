@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 public class Permutador {
-	
+	//Aquí estoy
 	private static String totalPermutaciones = "";
     // print n! permutation of the characters of the string s (in order)
     //public  static void perm1(String s) { perm1("", s); }
