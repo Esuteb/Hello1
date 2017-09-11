@@ -1,5 +1,6 @@
 import javax.swing.JOptionPane;
 public class Permutador {
+	//Suba esto
 	//Aqui tambien estoy
 	//Aquí estoy
 	private static String totalPermutaciones = "";
